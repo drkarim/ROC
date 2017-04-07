@@ -1,5 +1,5 @@
 # ROC Curve for 3D voxel classification 
-This repository contains code that will generate data for plotting ROC (Receiver Operator Characteristic) curves using [Matlab's ROC functions)(https://uk.mathworks.com/help/nnet/ref/roc.html) 
+This repository contains code that will generate data for plotting ROC (Receiver Operator Characteristic) curves using [Matlab's ROC functions](https://uk.mathworks.com/help/nnet/ref/roc.html) 
 
 ## Dependencies
 Note that this program uses [MIRTK - Medical Image Registration Library](https://github.com/BioMedIA/MIRTK) 
